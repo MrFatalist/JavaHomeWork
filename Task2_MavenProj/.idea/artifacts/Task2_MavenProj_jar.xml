@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Task2_MavenProj:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Task2_MavenProj_jar</output-path>
+    <root id="archive" name="Task2_MavenProj.jar">
+      <element id="module-output" name="Task2_MavenProj" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/resources/dummy-connector.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
